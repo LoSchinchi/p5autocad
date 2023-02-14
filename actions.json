@@ -1,0 +1,34 @@
+{
+  "linea": {
+    "create line": "crea una linea semplice (a)"
+  },
+  "rettangolo": {
+    "create rect 2p": "rettangolo mediante 2 punti (d)",
+    "create rect 3p": "rettangolo mediante 3 punti (f)",
+    "create rect ce": "rettangolo mediante centro (g)"
+  },
+  "circonferenza": {
+    "create ci raggio": "crea una circonferenza con un punto e il raggio (s)",
+    "create ci diam": "crea una circonferenza con un punto e il diametro (h)",
+    "create ci 2p": "crea una circonferenza mediante 2 punti (b)",
+    "create ci 3p": "crea una circonferenza mediante 3 punti (n)"
+  },
+  "ellisse": {
+    "create ellipse": "crea un ellisse dato il centro e un altro punto (t)"
+  },
+  "rombo": {
+    "create rombo": "crea un rombo dati dato il centro e un altro punto (y)"
+  },
+  "poligono": {
+    "create pol insc": "crea un poligono inscritto nella circonferenza (q)",
+    "create pol circ": "crea un poligono circoscritto nella circonferenza (w)"
+  },
+  "arco": {
+    "create arc 3p": "crea un arco con 3 punti (o)",
+    "create arc ce 1p": "crea un arco mediante cento e punto (p)"
+  },
+  "spline": {
+    "create spline adapted": "crea una spline senza punti di controllo (e)",
+    "create spline p contr": "crea una spline con punti di controllo (r)"
+  }
+}
