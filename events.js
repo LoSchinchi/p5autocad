@@ -130,6 +130,4 @@ function keyPressed(event) {
         action = 'create ellipse';
     else if (event.key === 'y')
         action = 'create rombo';
-    else if (event.key === 'm')
-        isMuoviCanva = !isMuoviCanva
 }
